@@ -1,0 +1,5 @@
+c:\users\emmanuel mark\documents\visual studio 2017\Projects\TheBank2\bin\Debug\TheBank2.dll
+c:\users\emmanuel mark\documents\visual studio 2017\Projects\TheBank2\bin\Debug\TheBank2.pdb
+c:\users\emmanuel mark\documents\visual studio 2017\Projects\TheBank2\obj\Debug\TheBank2.dll
+c:\users\emmanuel mark\documents\visual studio 2017\Projects\TheBank2\obj\Debug\TheBank2.pdb
+c:\users\emmanuel mark\documents\visual studio 2017\Projects\TheBank2\obj\Debug\TheBank2.csprojResolveAssemblyReference.cache
